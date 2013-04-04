@@ -1,0 +1,1 @@
+Python script by Kiri Nichol for the "Elegante Algoritmen" competition of SETUP Utrecht
